@@ -9,3 +9,7 @@ uvicorn==0.20.0
 opencv_python==4.6.0.66
 scikit-video==1.1.11
 python-multipart==0.0.5
+fastapi==0.104.1
+opencv-python==4.8.1.78
+loguru==0.7.2
+sk-video==1.1.10
